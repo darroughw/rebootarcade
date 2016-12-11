@@ -1,0 +1,7 @@
+{
+	"assets": "assets",
+	"src": "src",
+	"hostname": "holeshotwp.dev",
+	"env": "dev",
+	"theme": "main"
+}

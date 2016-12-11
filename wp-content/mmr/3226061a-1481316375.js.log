@@ -1,0 +1,5 @@
+2016-12-09T23:06:47+00:00 - MERGED:
+ - scripts - http://reboot:8888/wp-content/themes/main/assets/js/app.js
+ - wp-embed - /wp-includes/js/wp-embed.min.js - unminified version used
+2016-12-09T23:07:18+00:00 - COMPRESSING JS WITH CLOSURE
+2016-12-09T23:07:20+00:00 - COMPRESSION COMPLETE - 1.73K saved

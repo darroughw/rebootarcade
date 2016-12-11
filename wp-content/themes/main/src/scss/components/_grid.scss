@@ -1,0 +1,29 @@
+@import 'susy/sass/susy';
+//@import 'flexboxgrid'; // Docs at http://flexboxgrid.com/
+
+$susy: (
+	columns: $total-columns,
+	container: $container-width,
+	column-width: $column-width,
+	gutters: $gutter-size/$column-width,
+	/*debug: (
+	    image: show,
+	    output: overlay
+	)*/
+);
+
+
+.wrap{
+	@include container($susy border-box);
+	padding-left: $container-padding-left;
+	padding-right: $container-padding-right;
+	min-height: 24px;
+}
+
+.content{
+	@include span(8 of 12);
+}
+
+.sidebar{
+	@include span(4 of 12 last);
+}

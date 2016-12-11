@@ -1,0 +1,6 @@
+2016-12-09T23:06:46+00:00 - MERGED:
+ - admin-bar - /wp-includes/js/admin-bar.min.js - unminified version used
+ - jquery-core - /wp-includes/js/jquery/jquery.js
+ - jquery-migrate - /wp-includes/js/jquery/jquery-migrate.min.js - unminified version used
+2016-12-09T23:07:15+00:00 - COMPRESSING JS WITH CLOSURE
+2016-12-09T23:07:18+00:00 - COMPRESSION COMPLETE - 16.61K saved

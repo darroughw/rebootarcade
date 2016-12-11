@@ -1,0 +1,9 @@
+<?php
+/*
+*  CUSTOM POST TYPES
+*
+*
+*
+*/
+
+?>

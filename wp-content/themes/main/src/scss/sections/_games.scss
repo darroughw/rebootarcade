@@ -1,0 +1,37 @@
+.cabinets {
+	text-align: center;
+	h1 {
+		text-transform: uppercase;
+		color: #fff;
+		font-family: Iceland;
+		-webkit-animation: neon1 1.5s ease-in-out infinite alternate;
+		-moz-animation: neon1 1.5s ease-in-out infinite alternate;
+		animation: neon1 1.5s ease-in-out infinite alternate;
+		font-size: 7em;
+		margin: 20px 0 20px 0;
+	}
+	.games {
+		text-align: left;
+		color: #d2fefe;
+		list-style: none;
+		.game {
+			p {
+
+			}
+			hr {
+
+				margin: 0 0 10px 0;
+			}
+			
+		}
+	}
+}
+
+@-webkit-keyframes neon1 {
+  from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #228DFF, 0 0 70px #228DFF, 0 0 80px #228DFF, 0 0 100px #228DFF, 0 0 150px #228DFF;
+    }
+    to {
+      text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #228DFF, 0 0 35px #228DFF, 0 0 40px #228DFF, 0 0 50px #228DFF, 0 0 75px #228DFF;
+    }
+}

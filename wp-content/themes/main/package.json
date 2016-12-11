@@ -1,0 +1,39 @@
+{
+  "name": "holeshot",
+  "version": "1.2.8",
+  "description": "Front-end framework",
+  "main": "gulpfile.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "don.jones@mullenlowe.com",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "colors": "latest",
+    "glob": "^7.1.1",
+    "grunt-legacy-log": "latest",
+    "gulp": "latest",
+    "gulp-add-src": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-concat": "^2.6.1",
+    "gulp-filter": "latest",
+    "gulp-htmlhint": "latest",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "latest",
+    "gulp-jshint": "latest",
+    "gulp-json-editor": "latest",
+    "gulp-notify": "latest",
+    "gulp-plumber": "latest",
+    "gulp-postcss": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-svgmin": "latest",
+    "gulp-uglify": "latest",
+    "gulp-useref": "latest",
+    "gulp-util": "latest",
+    "path": "latest"
+  }
+}
